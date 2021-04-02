@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616893274 source:c:\users\capitalcity\documents\facultad\utn\clase4--ej4.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones2.h"
+
+1616546079 c:\users\capitalcity\documents\facultad\utn\clase4--ej4.2\funciones.h
+
+1616893160 c:\users\capitalcity\documents\facultad\utn\clase4--ej4.2\funciones2.h
+
+1616893246 source:c:\users\capitalcity\documents\facultad\utn\clase4--ej4.2\funciones2.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones2.h"
+
